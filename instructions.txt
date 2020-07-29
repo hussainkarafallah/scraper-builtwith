@@ -7,6 +7,7 @@ Instructions:
 	Note: NOW I am using selenium only for getting cookies
 
 5- pip install -r requirements.txt
+   your terminal must be set to the main folder (containing requirements,config..etc)
 6- open config.json and put the path of your chrome driver
    probably you don't need to change the user name password
    just try to parse as many files (by inserting them in sites.txt)
@@ -19,7 +20,7 @@ Instructions:
    website case:
    scrapy crawl MainSpider -a mode="w" -a param="hltv.org"
 
-   filecase:
+   filecase
    scrapy crawl MainSpider -a mode="f" -a param="sites.txt"
 
    results are automatically generated in the folder results
@@ -29,8 +30,6 @@ Instructions:
 
 8- check mainlog for logs of the crawler, anyway there will be console debugging and you can see what requests are failing
 9- if for some reason the crawler fails to fetch/parse info probbaly you need to run a proxy))
-10- chrome will be running in nonheadless mode, so you can at least check that it's opening and loading the website and logging in successfully
-    if it logs in then 99% everything will be fine
    
 That's it
 	
