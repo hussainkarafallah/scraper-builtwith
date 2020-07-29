@@ -1,0 +1,36 @@
+Instructions:
+
+1- Install google Chrome if you don't have it
+2- go to  https://selenium-python.readthedocs.io/installation.html and install the chrome driver
+3- place the driver anywhere you want, you will need the path to it for running the script
+4- 
+	Note: NOW I am using selenium only for getting cookies
+
+5- pip install -r requirements.txt
+6- open config.json and put the path of your chrome driver
+   probably you don't need to change the user name password
+   just try to parse as many files (by inserting them in sites.txt)
+   if you try to run the script multiple times in short periods it may block the username password for a short while
+   however if you parse like 100 sites at a time it's totally ok
+   just don't parse the 100 sites 1 by 1 :)
+   
+7- how to run the script (make sure to install scrapy):
+
+   website case:
+   scrapy crawl MainSpider -a mode="w" -a param="hltv.org"
+
+   filecase:
+   scrapy crawl MainSpider -a mode="f" -a param="sites.txt"
+
+   results are automatically generated in the folder results
+   for each run of the script a folder with the time stamp (date,time) is created and results are put there
+
+   I would recommend the first method and parse as many sites as possible at once
+
+8- check mainlog for logs of the crawler, anyway there will be console debugging and you can see what requests are failing
+9- if for some reason the crawler fails to fetch/parse info probbaly you need to run a proxy))
+10- chrome will be running in nonheadless mode, so you can at least check that it's opening and loading the website and logging in successfully
+    if it logs in then 99% everything will be fine
+   
+That's it
+	

@@ -1,0 +1,5 @@
+pandas
+selenium
+requests
+bs4
+scrapy
