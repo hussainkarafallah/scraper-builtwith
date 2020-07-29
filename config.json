@@ -1,0 +1,6 @@
+{
+	"DRIVER_PATH" : "C:\\Program Files (x86)\\chromedriver.exe",
+	"EMAIL" : "kingslayer1988@gmail.com",
+	"PASSWORD" : "123456",	
+	"HEADLESS" : "0"
+}

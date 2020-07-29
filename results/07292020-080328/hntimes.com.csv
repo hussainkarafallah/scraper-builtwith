@@ -1,0 +1,7 @@
+,spend,technology,domain,link,description
+82,unknown,Viewport Meta,Mobile,https://developers.google.com/speed/docs/insights/ConfigureViewport,This page uses the viewport meta tag which means the content may be optimized for mobile content.
+83,unknown,IPhone / Mobile Compatible,Mobile,http://apple.com,The website contains code that allows the page to support IPhone / Mobile Content.
+84,unknown,CloudFront,Content Delivery Network,http://aws.amazon.com/cloudfront/,"Amazon CloudFront is a web service for content delivery. It integrates with other Amazon Web Services to give developers and businesses an easy way to distribute content to end users with low latency, high data transfer speeds, and no commitments."
+85,unknown,Google Adsense,Advertising,http://google.com/adsense,A contextual advertising solution for delivering Google AdWords ads that are relevant to site content pages.
+86,unknown,AdBlock Acceptable Ads,Advertising,https://adblockplus.org/en/acceptable-ads-agreements,The website is white listed to shows advertisements to users who have popular extension AdBlock installed.
+87,unknown,Linode,Web Hosting Providers,http://linode.com,VPS hosting company specializing in Linux hosting.

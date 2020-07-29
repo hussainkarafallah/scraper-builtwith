@@ -1,0 +1,13 @@
+kingslayer1988@gmail.com
+123456
+C:\Program Files (x86)\chromedriver.exe
+Logged In status: False
+[{'domain': 'pro.builtwith.com', 'httpOnly': True, 'name': 'ASP.NET_SessionId', 'path': '/', 'sameSite': 'Lax', 'secure': True, 'value': 'ri2vc0e1acql2n2ncdmc0yck'}, {'domain': '.builtwith.com', 'expiry': 1598677319, 'httpOnly': False, 'name': 'BWSSON', 'path': '/', 'secure': True, 'value': 'dxJP6R/vBL4WQ4zdpqLxF2tEtQKKGY4moERO50K494iduk6rrcqs5O2v0dks2dyg32VKX7TDUzLsFDKcrqH8BolidXh1wX6Aes6C6Cr2otw='}]
+parsed meta for website kissanime.com
+parsed meta for website gumgum.com
+Parsed website omeggle.com , techs total 3
+Parsed website kissanime.com , techs total 4
+Parsed website gumgum.com , techs total 71
+Parsed website szhukou.net , techs total 4
+Parsed website hntimes.com , techs total 6
+Parsed website shumeitui.com , techs total 7
