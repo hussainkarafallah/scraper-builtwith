@@ -114,7 +114,7 @@ class MainSpider(scrapy.Spider):
 
 
     def parse_meta(self , response , site):
-        spent = response.xpath('.//*[@class="font-weight-bold mt-3"]/text()').extract_first()
+        spent = response.xpath('.//*[@class="font-weight-bold mt-3"]/text()').extract_first().strip()
         mylogger.info("parsed meta for website {}".format(site))
         item = metaItem()
         item['site'] = site

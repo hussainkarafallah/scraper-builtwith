@@ -1,0 +1,72 @@
+,spend,technology,domain,link,description
+7,$2000+ / month,Hubspot,Analytics and Tracking,http://www.hubspot.com,Hubspot provides marketing information and leads via inbounding marketing software.
+8,$2000+ / month,Visual Website Optimizer,Analytics and Tracking,http://visualwebsiteoptimizer.com,"VWO provides A/B, split and multivariate testing software."
+9,$2000+ / month,Kochava,Analytics and Tracking,https://www.kochava.com/,Unified audience attribution and analytics platform.
+10,$2000+ / month,PageFair,Analytics and Tracking,http://pagefair.com/,Use PageFair to measure how much ad-blocking is costing.
+11,$2000+ / month,Google Conversion Tracking,Analytics and Tracking,https://support.google.com/adwords/answer/1722054,"This free tool in AdWords can show you what happens after customers click your ad (for example, whether they purchased your product, called from a mobile phone or downloaded your app)."
+12,$2000+ / month,Google Analytics,Analytics and Tracking,http://google.com/analytics,Google Analytics offers a host of compelling features and benefits for everyone from senior executives and advertising and marketing professionals to site owners and content developers.
+13,$2000+ / month,Quantcast Measurement,Analytics and Tracking,http://www.quantcast.com,Provides Quantcast with tracking information about your site which anyone can access and view demographic information.
+14,$2000+ / month,Facebook Pixel,Analytics and Tracking,https://www.facebook.com/business/help/952192354843755,Facebook Pixel is Facebooks conversion tracking system for ads on Facebook to websites.
+15,$2000+ / month,LinkedIn Insights,Analytics and Tracking,https://business.linkedin.com/marketing-solutions,The LinkedIn Insight Tag is a piece of lightweight JavaScript code that you can add to your website to enable in-depth campaign reporting and unlock valuable insights about your website visitors and for conversion optimization of ads.
+16,$2000+ / month,Twitter Conversion Tracking,Analytics and Tracking,https://business.twitter.com/en/help/campaign-measurement-and-analytics/conversion-tracking-for-websites.html,Twitter ads conversion tracking code.
+17,$2000+ / month,Fastly,Analytics and Tracking,http://fastly.net,Real-time Analytics and CDN platform. Analyze your web and server traffic patterns in real-time.
+18,$2000+ / month,Facebook Signal,Analytics and Tracking,https://www.facebook.com/facebookmedia/get-started/signal,"Journalists use Signal to surface relevant trends, photos, videos and posts from Facebook and Instagram for use in their storytelling and reporting."
+19,$2000+ / month,Global Site Tag,Analytics and Tracking,https://support.google.com/adwords/answer/7548399,"Google's primary tag for Google Measurement/Conversion Tracking, Adwords and DoubleClick."
+20,$2000+ / month,Matomo,Analytics and Tracking,http://matomo.org,"Matomo is an open source web analytics software. It gives interesting reports on your website visitors, your popular pages, the search engines keywords they used, the language they speak and so much more. Previously known as Piwik Web Analytics."
+21,$2000+ / month,OneTrust,Widgets,http://onetrust.com/,Cookie compliance system.
+22,$2000+ / month,Google Font API,Widgets,https://fonts.google.com,The Google Font API helps you add web fonts to any web page.
+23,$2000+ / month,Google Tag Manager,Widgets,http://google.com/tagmanager,Tag management that lets you add and update website tags without changes to underlying website code.
+24,$2000+ / month,GDPR Consent Management Platform,Widgets,https://iabeurope.eu/tcf-for-cmps/,Consumer-facing consent management solution for GDPR compliance based on the IAB Europe's Transparency & Consent framework.
+25,$2000+ / month,COVID-19,Widgets,https://www.who.int/emergencies/diseases/novel-coronavirus-2019,This website mentions COVID-19 / Novel Coronavirus.
+26,$2000+ / month,reCAPTCHA,Widgets,https://www.google.com/recaptcha/intro/index.html,Anti-bot CAPTCHA widget from Google.
+27,$2000+ / month,PHP,Frameworks,http://www.php.net,PHP is a widely-used general-purpose scripting language that is especially suited for Web development and can be embedded into HTML.
+28,$2000+ / month,GlobalSign Domain Verification,Frameworks,https://support.globalsign.com/customer/portal/articles/2167245-performing-domain-verification---dns-txt-record,Domain verification for SSL certificate validation.
+29,$2000+ / month,symfony PHP Framework,Frameworks,http://www.symfony-project.com/,Open-Source PHP Web Framework
+30,$2000+ / month,Mobile Non Scaleable Content,Mobile,http://developer.apple.com/library/safari/#documentation/appleapplications/reference/SafariHTMLRef/Articles/MetaTags.html,"This content is formatted for mobile devices, it does not allow the content to be scaled."
+31,$2000+ / month,Viewport Meta,Mobile,https://developers.google.com/speed/docs/insights/ConfigureViewport,This page uses the viewport meta tag which means the content may be optimized for mobile content.
+32,$2000+ / month,IPhone / Mobile Compatible,Mobile,http://apple.com,The website contains code that allows the page to support IPhone / Mobile Content.
+33,$2000+ / month,AJAX Libraries API,Content Delivery Network,http://code.google.com/apis/ajaxlibs/documentation/,"The AJAX Libraries API is a content distribution network and loading architecture for the most popular, open source JavaScript libraries."
+34,$2000+ / month,Microsoft Azure Blob Storage,Content Delivery Network,http://www.windowsazure.com/en-us/develop/net/how-to-guides/blob-storage/,Windows Azure Blob storage is a service for storing large amounts of unstructured data that can be accessed from anywhere in the world via HTTP or HTTPS.
+35,$2000+ / month,Atlassian Cloud,Content Management System,https://www.atlassian.com/licensing/cloud,Cloud registered domain for products including Jira and Confluence.
+36,$2000+ / month,Sulu,Content Management System,https://sulu.io,Sulu is a content management platform based on Symfony.
+37,$2000+ / month,jQuery,JavaScript Libraries and Functions,http://jquery.com,"JQuery is a fast, concise, JavaScript Library that simplifies how you traverse HTML documents, handle events, perform animations, and add Ajax interactions to your web pages. jQuery is designed to change the way that you write JavaScript."
+38,$2000+ / month,jQuery UI,JavaScript Libraries and Functions,http://jqueryui.com/,"jQuery UI provides abstractions for low-level interaction and animation, advanced effects and high-level, themeable widgets, built on top of the jQuery JavaScript Library, that you can use to build highly interactive web applications."
+39,$2000+ / month,Modernizr,JavaScript Libraries and Functions,http://www.modernizr.com,Modernizr allows you to target specific browser functionality in your stylesheet.
+40,$2000+ / month,RequireJS,JavaScript Libraries and Functions,http://requirejs.org/,RequireJS is a JavaScript file and module loader.
+41,$2000+ / month,html5shiv,JavaScript Libraries and Functions,https://github.com/afarkas/html5shiv,HTML5 IE enabling script shim.
+42,$2000+ / month,Facebook for Websites,JavaScript Libraries and Functions,http://developers.facebook.com/,Allows a user to make a website more sociable and connected with integrations from the hugely popular Facebook website.
+43,$2000+ / month,Facebook SDK,JavaScript Libraries and Functions,http://developers.facebook.com/docs/reference/javascript/," JavaScript SDK enables you to access all of the features of the Graph API via JavaScript, and it provides a rich set of client-side functionality for authentication and sharing. It differs from Facebook Connect."
+44,$2000+ / month,React,JavaScript Libraries and Functions,https://reactjs.org/,A JavaScript library for building user interfaces from Facebook.
+45,$2000+ / month,Google Hosted Libraries,JavaScript Libraries and Functions,https://developers.google.com/speed/libraries/,"Google Hosted Libraries is a globally available content distribution network for the most popular, open-source JavaScript libraries."
+46,$2000+ / month,particles.js,JavaScript Libraries and Functions,http://vincentgarreau.com/particles.js,A lightweight JavaScript library for creating particles.
+47,$2000+ / month,Highlight.js,JavaScript Libraries and Functions,https://highlightjs.org/,Syntax highlighting for the Web.
+48,$2000+ / month,Google Remarketing,Advertising,http://www.google.com.au/ads/innovations/remarketing.html,Google code specifically for remarketing/retargeting based advertising.
+49,$2000+ / month,DoubleClick.Net,Advertising,http://www.doubleclick.com,"DoubleClick enables agencies, marketers and publishers to work together successfully and profit from their digital marketing investments."
+50,$2000+ / month,Twitter Ads,Advertising,http://ads.twitter.com,Twitter advertising includes conversion tracking and re-marketing tools.
+51,$2000+ / month,AdRoll,Advertising,http://adroll.com,AdRoll is a retargeting platform with a mission to make display advertising simple for business of all sizes.
+52,$2000+ / month,Facebook Custom Audiences,Advertising,https://developers.facebook.com/docs/reference/ads-api/custom-audience-website,Custom Audiences from your website makes it possible to reach people who visit your website and deliver the right message to them on Facebook.
+53,$2000+ / month,LinkedIn Ads,Advertising,http://linkedin.com/ads,LinkedIn advertising solutions.
+54,$2000+ / month,GumGum,Advertising,http://www.gumgum.com,GumGum is an analytics and monetization platform for content online.
+55,$2000+ / month,Careers,Verified Link,https://kb.builtwith.com/special-reports/link-tracking/,The website contains a link to a careers / job opportunities / work with us style page.
+56,$2000+ / month,Zendesk,Email Hosting Providers,http://www.zendesk.com/,"Organize, prioritize and engage with others on support requests."
+57,$2000+ / month,Salesforce SPF,Email Hosting Providers,http://salesforce.com,This site uses Salesforce.com to send emails.
+58,$2000+ / month,Amazon SES,Email Hosting Providers,http://aws.amazon.com/ses/,"Amazon Simple Email Service (Amazon SES) is a  scalable, bulk, transactional email-sending service for businesses and developers."
+59,$2000+ / month,MailChimp SPF,Email Hosting Providers,http://mailchimp.com,This site has an SPF record for MailChimp managed email sending.
+60,$2000+ / month,Google Apps for Business,Email Hosting Providers,http://www.google.com/a,"Web-based email, calendar, and documents for teams. Renamed to Google Apps for Work, but now known as G Suite From Google Cloud."
+61,$2000+ / month,SPF,Email Hosting Providers,http://www.openspf.org/,The Sender Policy Framework is an open standard specifying a technical method to prevent sender address forgery.
+62,$2000+ / month,DMARC,Email Hosting Providers,http://www.dmarc.org,A technical specification created by a group of organizations that want to help reduce the potential for email-based abuse
+63,$2000+ / month,GoDaddy SSL,SSL Certificates,http://godaddy.com,Certificate provided by GoDaddy.
+64,$2000+ / month,LetsEncrypt,SSL Certificates,https://letsencrypt.org,Let’s Encrypt is a free open Certificate Authority.
+65,$2000+ / month,SSL by Default,SSL Certificates,http://trends.builtwith.com/ssl,The website redirects traffic to an HTTPS/SSL version by default.
+66,$2000+ / month,Amazon SSL,SSL Certificates,https://amazon.com,Amazon supplied SSL certificate
+67,$2000+ / month,Amazon Route 53,Name Server,http://aws.amazon.com/route53/,Amazon's scalable DNS web service system.
+68,$2000+ / month,Amazon,Web Hosting Providers,http://aws.amazon.com,This site is hosted on Amazon AWS EC2 Infrastructure.
+69,$2000+ / month,nginx,Web Servers,http://nginx.net/,nginx [engine x] is a HTTP server and mail proxy server written by Igor Sysoev.
+70,$2000+ / month,Varnish,Web Servers,http://varnish-software.com/,Varnish is a web accelerator / reverse proxy caching server.
+71,$2000+ / month,IPv6,Operating Systems and Servers,http://en.wikipedia.org/wiki/IPv6,The website has an IPv6 record.
+72,$2000+ / month,Pingback Support,Syndication Techniques,http://en.wikipedia.org/wiki/Pingback,"A Pingback is one of three types of Linkbacks, methods for Web authors to request notification when somebody links to one of their documents."
+73,$2000+ / month,Amazon CloudFront,Verified CDN,http://aws.amazon.com/cloudfront/,Amazon CloudFront delivers your static and streaming content using a global network of edge locations.
+74,$2000+ / month,Amazon S3 CDN,Verified CDN,http://aws.amazon.com/s3/,Amazon S3 is storage for the Internet. It is designed to make web-scale computing easier for developers.
+75,$2000+ / month,Google Webmaster,Web Master Registration,http://www.google.com/webmasters/,Webmaster tools provide you with a free and easy way to make your site more Google-friendly.
+76,$2000+ / month,Content Delivery Network,Content Delivery Network,http://en.wikipedia.org/wiki/Content_Delivery_Network,This page contains links that give the impression that some of the site contents are stored on a content delivery network.
+77,$2000+ / month,Copyright Year 2008,Copyright,https://en.wikipedia.org/wiki/Copyright,Webpage has a copyright year of 2008 with no detectable mention of the current year.
